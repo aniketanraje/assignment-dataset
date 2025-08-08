@@ -21,6 +21,6 @@ Example Python snippet to load datasets directly from GitHub:
 ```python
 import pandas as pd
 
-netflix_url = "https://raw.githubusercontent.com/aniketanraje/assignment-dataset/main/Netflix.csv"
+netflix_url = "https://raw.githubusercontent.com/aniketanraje/assignment-dataset/main/netflix_titles.csv"
 df_netflix = pd.read_csv(netflix_url)
 
