@@ -6,7 +6,7 @@ Public datasets for IIT Guwahati – E&amp;ICT Academy Data Science &amp; ML Pan
 This repository contains the datasets used for the **Pandas Assignment** as part of the *Advanced Certification in Applied Data Science, Machine Learning & AI* course by **E&ICT Academy, IIT Guwahati** in collaboration with **The IoT Academy**.
 
 ## 📂 Contents
-- `Netflix.csv` – Dataset for Netflix-related data analysis tasks.
+- `netflix_titles.csv` – Dataset for Netflix-related data analysis tasks.
 - `student.csv` – Student demographic data.
 - `marks.csv` – Marks data for students.
 
